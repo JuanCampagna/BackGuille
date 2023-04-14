@@ -40,3 +40,4 @@ values.forEach((element) => {
 
 let totalProdVendidos = soloValues.reduce((ini, acu) => acu + ini);
 console.log(totalProdVendidos, "Total");
+console.log("test");
