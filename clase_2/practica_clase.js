@@ -39,4 +39,4 @@ values.forEach((element) => {
 // console.log(soloValues, "soloValues");
 
 let totalProdVendidos = soloValues.reduce((ini, acu) => acu + ini);
-console.log(totalProdVendidos, "Total");
+console.log("Total", totalProdVendidos);
